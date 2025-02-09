@@ -9,23 +9,24 @@
 The CCM provides cloud service providers with best practices for the secure implementation of cloud infrastructure and services. It also helps cloud service customers assess the security of cloud service providers.
 
 CCM version 4 evaluates cloud providers based on the following criteria:
-Audit & Assurance
-Application & Interface Security
-Business Continuity Management & Operational
-Change Control & Configuration Management
-Cryptography, Encryption, & Key Management
-Datacenter Security
-Data Security & Privacy Lifecycle Management
-Governance, Risk, & Compliance
-Human Resources
-Identity & Access Management
-Interoperability & Portability
-Infrastructure & Virtualization Security
-Logging & Monitoring
-Security Incident Management, E-discovery, & Cloud Forensics
-Supply Chain Management, Transparency, & Accountability
-Threat & Vulnerability Management
-Universal Endpoint Management
+
+- Audit & Assurance
+- Application & Interface Security
+- Business Continuity Management & Operational
+- Change Control & Configuration Management
+- Cryptography, Encryption, & Key Management
+- Datacenter Security
+- Data Security & Privacy Lifecycle Management
+- Governance, Risk, & Compliance
+- Human Resources
+- Identity & Access Management
+- Interoperability & Portability
+- Infrastructure & Virtualization Security
+- Logging & Monitoring
+- Security Incident Management, E-discovery, & Cloud Forensics
+- Supply Chain Management, Transparency, & Accountability
+- Threat & Vulnerability Management
+- Universal Endpoint Management
 
 ## Why do we need Cloud Controls Matrix?
 The CCM considers some of the most important and well-known regulations and standards, such as those from NIST, ISO, and PCI. The framework provides recommendations about what must be done to minimize risks associated with cloud computing. The CCM is therefore useful for defining, implementing, and fulfilling security requirements, and can also be used to monitor the implementation of those security requirements.
