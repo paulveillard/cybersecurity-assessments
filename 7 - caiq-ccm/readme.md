@@ -15,7 +15,7 @@ The CCM provides cloud service providers with best practices for the secure impl
 CCM version 4 evaluates cloud providers based on the following criteria:
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-assessments/blob/main/img/CCM-4.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-assessments/blob/main/img/ccm-4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 - Audit & Assurance
