@@ -5,6 +5,10 @@
  
 > It can be used as a tool for the systematic assessment of a cloud implementation, and provides guidance on which security controls should be implemented by which actor within the cloud supply chain. The controls framework is aligned to the CSA Security Guidance for Cloud Computing, and is considered a de-facto standard for cloud security assurance and compliance.
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-assessments/blob/main/img/Cloud-Control-Matrix-Logo.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ## What is the Cloud Controls Matrix?
 The CCM provides cloud service providers with best practices for the secure implementation of cloud infrastructure and services. It also helps cloud service customers assess the security of cloud service providers.
 
