@@ -1,4 +1,7 @@
 # Cloud Control Matrix (CCM): 4.0
 
 - The CSA Cloud Controls Matrix (CCM) is a cybersecurity control framework for cloud computing.
-  - It is composed of 197 control objectives that are structured in 17 domains covering all key aspects of cloud technology. 
+  - It is composed of 197 control objectives that are structured in 17 domains covering all key aspects of cloud technology.
+ 
+> It can be used as a tool for the systematic assessment of a cloud implementation, and provides guidance on which security controls should be implemented by which actor within the cloud supply chain. The controls framework is aligned to the CSA Security Guidance for Cloud Computing, and is considered a de-facto standard for cloud security assurance and compliance.
+
