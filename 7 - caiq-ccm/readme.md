@@ -26,7 +26,9 @@ Security Incident Management, E-discovery, & Cloud Forensics
 Supply Chain Management, Transparency, & Accountability
 Threat & Vulnerability Management
 Universal Endpoint Management
-Why do we need Cloud Controls Matrix?
+
+## Why do we need Cloud Controls Matrix?
 The CCM considers some of the most important and well-known regulations and standards, such as those from NIST, ISO, and PCI. The framework provides recommendations about what must be done to minimize risks associated with cloud computing. The CCM is therefore useful for defining, implementing, and fulfilling security requirements, and can also be used to monitor the implementation of those security requirements.
-How your organization can apply the Cloud Controls Matrix
+
+## How your organization can apply the Cloud Controls Matrix
 Organizations can use the CCM to define and identify policies and technical requirements. Using these defined policies and requirements, they can control goals and objectives that will be included in their security program. With clear objectives, organizations can then enforce specific directives related to users and employees, other organizations, and cloud service providers, and can better comply with external regulations.
