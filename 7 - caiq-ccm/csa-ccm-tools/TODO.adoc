@@ -1,2 +1,0 @@
-
-TODO: handle deprecated, retired terms within concepts
