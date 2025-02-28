@@ -1,5 +1,5 @@
 # cis-benchmarks
-20181112 - jonathan.glass@candidpartners.com
+
 * Create a script to parse all CIS benchmark PDFs and emit a CSV with recommendations
 * Assume this script is being run inside the directory holding the CIS Benchmark PDF files
 
